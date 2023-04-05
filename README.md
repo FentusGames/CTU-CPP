@@ -1,4 +1,2 @@
 # CTU-CPP
-The project aims to create a C++ version of CTU-Core, a Java-based client-server application. Its primary goal is to facilitate efficient communication between clients and servers, utilizing advanced encryption and compression methods, among other features. The end result will be a user-friendly and streamlined package.
-
-Most of the project will exist under Security.h, Test.cpp, and CtuNet.h until the major functionalities are completed.
+This project involves creating a C++ version of CTU-Core, which is currently a Java-based client-server application. The main objective of the project is to ensure effective communication between clients and servers by incorporating advanced encryption and compression methods. The ultimate goal is to provide a user-friendly and streamlined package. For now, the bulk of the project will be contained within Security.h, Test.cpp, and CtuNet.h until the major functionalities are fully developed.
